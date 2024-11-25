@@ -18,4 +18,7 @@
 ![image](https://github.com/xT-Development/xt-density/assets/101474430/7c9401f9-fcec-4e89-bdf3-d116410447dd)
 
 
-- This code redited by me so if there is any error you can report it in issue
+- This code redited by me so if there is any error you can report [Here](https://github.com/ThakkuGod/xt-density/issues)
+
+Credits:
+[xT Development](https://github.com/xT-Development)
